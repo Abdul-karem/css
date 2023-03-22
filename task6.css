@@ -1,0 +1,21 @@
+body {
+  background-color: blanchedalmond;
+  margin-top: 30px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+.Noth {
+  border: 1px black solid;
+}
+
+.Font {
+  border: 1px black solid;
+}
+
+.Gool {
+  border: 1px black solid;
+}
+div {
+  margin: 10px 10px 10px;
+}
